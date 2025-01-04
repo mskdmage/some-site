@@ -6,7 +6,7 @@ let amp;
 
 function preload() {
 	soundFormats('mp3','wav');
-	sound = loadSound('assets/song.mp3');
+	sound = loadSound('assets/applause.mp3');
 }
 
 function setup() {
